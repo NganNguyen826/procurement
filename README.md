@@ -1,5 +1,4 @@
 # Procurement analysis
-Procurement analysis 
 # Key focus: 
 * Cost Optimization & Negotiation Effectiveness
 * Supplier performance (delivery, compliance, cancellation)
